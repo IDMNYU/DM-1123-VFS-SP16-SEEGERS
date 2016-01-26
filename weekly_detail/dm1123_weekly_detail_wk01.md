@@ -3,9 +3,8 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 ## Schedule Weekly Detail
@@ -18,16 +17,13 @@
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sept 7</strong></td>
-  <td valign="top" width="48%"><strong>Sept 9</strong></td>
+  <td valign="top" width="48%"><strong>Jan 26</strong></td>
+  <td valign="top" width="48%"><strong>Jan 28</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-<ul>
-<li>NO CLASS, LABOR DAY HOLIDAY</li>
-</ul></td>
-<td valign="top"><strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm1123_class_exercise_first_day.md">
+<strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm1123_class_exercise_first_day.md">
 <ul>
 <li>Class Exercises: First Day of Class</li>
 <li>Group Syllabus Review</li>
@@ -66,6 +62,10 @@
 
 <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
 </ul></td>
+<td valign="top"><br><strong>Gestalt Lecture</strong><br><br>
+
+  <strong>Illustrator Demo</strong>
+</td>
 </tr>
 <tr>
   <td>read</td>
@@ -75,8 +75,10 @@
 <tr>
   <td>do </td>
   <td>
+  
   </td> 
   <td>
+  First Day of Class Exercise
   <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a></li>
 

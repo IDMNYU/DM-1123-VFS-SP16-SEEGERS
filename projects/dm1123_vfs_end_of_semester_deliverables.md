@@ -3,9 +3,8 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 
@@ -60,6 +59,6 @@ Make sure that images are included if they are not embedded within illustrator.
 
 #### Letter to Next Cohort
 
-*Email your letter as a pdf to jts329@nyu.edu. Do NOT put letters on basecamp, a public forum.*
+*Email your letter as a pdf to jseegers@nyu.edu. Do NOT put letters on basecamp, a public forum.*
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.

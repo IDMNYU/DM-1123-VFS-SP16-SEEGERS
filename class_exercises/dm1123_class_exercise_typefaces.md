@@ -3,20 +3,19 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 ## Class Exercise: Typefaces
 
 * **Post to wordpress, your favorite typeface used within an image**
 
-* **List the typeface’s family (Consult http://thinkingwithtype.com):**
+* **List the typeface’s family (you can consult http://thinkingwithtype.com):**
   * serif
-  * sans serif, 
-  * slab serif, 
-  * script, 
+  * sans serif
+  * slab serif
+  * script
   * decorative or display
 
 * **Try to find out the name of your typeface, as well as the type designer if you can**

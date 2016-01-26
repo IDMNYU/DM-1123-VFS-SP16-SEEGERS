@@ -3,15 +3,14 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 ## IDM COURSEWORK DOCUMENTATION
 
 * Set up your class website using wordpress at http://sites.bxmc.poly.edu/~yourfirstnamelastname/vf
-* Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment. 
+* Add your blog URL to the google spreadsheet. 
 
 This is a new policy that IDM is implementing. We would like to begin archiving all student coursework. We would like all students to document their IDM coursework on sites.bxmc.poly.edu. We want you to archive on sites.bxmc.poly.edu because these are IDM servers. If your work is archived on your personal servers, there is a possibility that you would delete your archives after they graduate or even sooner.
 

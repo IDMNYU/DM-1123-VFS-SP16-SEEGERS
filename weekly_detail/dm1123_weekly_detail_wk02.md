@@ -3,9 +3,8 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 ## Schedule Weekly Detail
@@ -19,8 +18,8 @@
 <!-- dates -->
 <tr>
   <td valign="top">2</td>
-  <td valign="top"><strong>Sept 14</strong></td>
-  <td valign="top"><strong>Sept 16</strong></td>
+  <td valign="top"><strong>Feb 2</strong></td>
+  <td valign="top"><strong>Feb 4</strong></td>
 </tr>
 <!-- class -->
 <tr>
@@ -28,7 +27,7 @@
   <td valign="top" width="48%"><strong>Discuss Reading Responses</strong>
 <ul>
 <li>Learning (Your First Job) by Leamnson</li>
-</ul><strong>COMPONENTS: COLOR</strong>
+</ul><strong>COMPONENTS: COLOR LECTURE</strong>
   <ul>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tell</a> due: Stefan Sagmeister by Professor Seegers</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
@@ -40,7 +39,7 @@
   <li>BxMC URLs Rollcall
   </ul>
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: TYPOGRAPHY LECTURE</strong>
     <ul>
 
     <li>Demo: Adobe Illustrator</li>
@@ -86,7 +85,8 @@
   <td valign="top">do</td>
   <td valign="top">
   Future Bio: Write a 200-400 word bio of yourself in 30 years.	Think about: <ul><li>the kinds of work you will have completed </li><li> collaborations with other people </li><li> Do you have a specialty? </li><li> have you won any awards? If so, which ones? </li><li> Who are your clients? </li><li> Have you had exhibitions of your work? </li><li> Has it been published anywhere, in magazines, blogs, etc.? </li>
-</ul></td>
+</ul>
+</td>
   <td valign="top">
   <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li></ul>
   <ul><li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>

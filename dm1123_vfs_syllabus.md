@@ -1,16 +1,16 @@
 # DM-UY 1123 Visual Foundation Studio
 
-![NYU](nyu_soe_logo.png)
+![NYU](projects/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
+    Jesse Seegers • jseegers@nyu.edu • Spring 2015 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 
     Office hours by appointment or directly before class 
     Prerequisites: None
    
 ###Github Repository: 
-* https://github.com/jesseseegers/DM1123-VFS-SP15
+* https://github.com/IDMNYU/DM-1123-VFS-SP16-SEEGERS
 
 ---
 
@@ -46,7 +46,7 @@ This course will reinforce or introduce students to:
 
 By the end of the course, students will be able to:
 
-* understand and implement the iterative process
+* understand and implement an iterative design process
 * learn how to proactively learn, also known as self-regulated learning
 * In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
 
@@ -72,14 +72,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Come to class on time and participate (be present and engaged)
 * Study outside of class (ideally with classmates)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
-* Consult basecamp at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
 * Email contact about logistics (when, where, how many?) only
 * Talk to me in person about issues and problems. Do not email long conversations. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-* Do not use basecamp to send personal messages
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
 * Be creative
@@ -166,7 +164,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED SUPPLIES
 * Laptop
-* Digital Storage (Jump Drive, External Hard Drive, etc)
+* Digital Storage (Jump Drive, External Hard Drive, NYU-provided Google Drive or Box cloud storage, etc)
 * Mark-making Utensils (pencils, pens, brushes, charcoal, etc.)
 * Sketchbook
 
@@ -181,10 +179,10 @@ These books (*) are available for purchase in the NYU bookstore, and will be on 
 
 ### REQUIRED SOFTWARE
 
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Indesign
-* Adobe Acrobat
+* Adobe Photoshop CC 2015
+* Adobe Illustrator CC 2015
+* Adobe Indesign CC 2015
+* Adobe Acrobat DC
 
 ### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
 See Appendix

@@ -3,14 +3,13 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
-
+    Jesse Seegers • jseegers@nyu.edu • Spring 2016 
+    Mondays & Wednesdays • 6:30-8:20PM • 2MTC MAGNET 811 • 3 credit hrs
 ---
 
 ## Class Exercise: Images
 
-* **Post to wordpress, the following**
+**Post to wordpress, each of the following:**
 
 * an image that illustrates the concept of **symmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
 * an image that illustrates the concept of **asymmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
