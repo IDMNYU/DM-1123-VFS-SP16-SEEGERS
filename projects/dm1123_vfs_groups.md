@@ -12,14 +12,20 @@
 
 **Group A**
 
-* * 
-
-
+* Anthony Ynami
+* Maggie Walsh
+* Raj Suchdev
+* Mary Soegino
+* Darren Shin
+* Haotian Shen
 
 **Group B**
 
-* 
-* 
-
-
+* Jack Curzon
+* Jenny Du
+* Mateo Juvera Molino
+* Sharon Lee
+* Tyler Mechura
+* Levi Mollison
+* Sarah Park
 
