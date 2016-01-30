@@ -48,17 +48,25 @@
 * Shepard Fairey (semiotics)
 * Saul Bass (for logos, not film titles)
 
-- Tues, Feb 2
-Levi Mollison and Tyler Mechura presenting on Chipp Kidd
-- Thurs, Feb 4
-Anthony Ynami and Marry Soegino presenting on Shepherd Fairey
-Maggie Walsh and Haotien Chen presenting on Barbara Kruger
-- Tues, Feb 9
-Raj Suchdev and Henrique Mendonca presenting on Saul Bass
-Darren Shin and Howard Park presenting on Peter Saville
-- Thurs, Feb 11: 
-Sarah Park and Jenny Du presenting on David Carson
-Sharon Lee and Mateo Molina presenting on Muriel Cooper
-- Tues, Feb 16: 
-Jack Curzon presenting on Josef Muller Brockman
+* Tues, Feb 2
+* Levi Mollison and Tyler Mechura presenting on Chipp Kidd
+
+
+* Thurs, Feb 4
+* Anthony Ynami and Marry Soegino presenting on Shepherd Fairey
+* Maggie Walsh and Haotien Chen presenting on Barbara Kruger
+
+
+* Tues, Feb 9
+* Raj Suchdev and Henrique Mendonca presenting on Saul Bass
+* Darren Shin and Howard Park presenting on Peter Saville
+
+
+* Thurs, Feb 11
+* Sarah Park and Jenny Du presenting on David Carson
+* Sharon Lee and Mateo Molina presenting on Muriel Cooper
+
+
+* Tues, Feb 16
+* Jack Curzon presenting on Josef Muller Brockman
 
