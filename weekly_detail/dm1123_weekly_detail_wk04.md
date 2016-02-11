@@ -97,7 +97,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md">Read and do Reading Response</a></strong> for Laws of Organization in Perceptual Form, by Max Wertheimer</p>
+  
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -105,7 +105,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework.</p><p><strong><a href="../projects/dm1123_vfs_reading_responses.md">Read and do Reading Response</a></strong> for Laws of Organization in Perceptual Form, by Max Wertheimer</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
