@@ -44,26 +44,26 @@
     <tr>
         <td>4</td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk04.md">Feb 16<br><strong>Screening: Type</strong></a><br></td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk04.md">Feb 18<br><strong>Components: Composition &amp; Concept</strong><br>LOGO 1st Draft (Group A)</a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk04.md">Feb 18<br><strong>Components: Composition &amp; Concept</strong><br><strong>LOGO Show & Tells</strong></a></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk05.md">Feb 23<br><strong>LOGO Show & Tells</strong> <br>Logo 1st Draft (Group B)
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk05.md">Feb 23<br> <br>LOGO 1st Draft (Group B)
         </a></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk05.md">Feb 25<br><strong>
-Guest Lecture
+LOGO 1st Draft (Group A)
 </strong></a></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md"> Mar 1<br><strong>LOGO 2nd Draft (Group A)</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md">Mar 3<br><strong>LOGO 2nd Draft (Group B)</strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md"> Mar 1<br><strong>LOGO 2nd Draft (Group B)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md">Mar 3<br><strong>LOGO 2nd Draft (Group A)</strong></td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk07.md">Mar 8<br><strong>MIDTERM: LOGO FINAL (Group A)</strong>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk07.md">Mar 8<br><strong>MIDTERM: LOGO FINAL (Group B)</strong>
         </td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk07.md">Mar 10<br><strong>MIDTERM: LOGO FINAL (Group B)</strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk07.md">Mar 10<br><strong>MIDTERM: LOGO FINAL (Group A)</strong></td>
     </tr>
     <tr>
         <td>-</td>
