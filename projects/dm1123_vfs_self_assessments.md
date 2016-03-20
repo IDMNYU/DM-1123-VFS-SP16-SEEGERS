@@ -3,7 +3,7 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
+    Jesse Seegers • jseegers@nyu.edu • Fall 2015 
     Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
 
 ---
@@ -13,7 +13,7 @@
 
 #### MIDTERM SELF ASSESSMENT  
 
-Email your midterm self assessment as a pdf to jts329@nyu.edu.
+Email your midterm self assessment in the body of an email to jseegers@nyu.edu.
 
 Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 
@@ -25,7 +25,7 @@ Critically analyze/evaluate your visual foundation process and how it is has cha
 
 #### FINAL SELF ASSESSMENT   
 
-Email your final self assessment as a pdf to jts329@nyu.edu.
+Email your final self assessment in the body of an email to jseegers@nyu.edu.
 
 **Of Self**
 
