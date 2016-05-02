@@ -16,9 +16,7 @@ This should be compiled using Adobe InDesign. The visual foundation principles w
 PDF Cover:
 
 * Your first and last name
-* Your Logo
-* The Name of Your Project
-* Visual Foundation Studio 2015 or VFS 2015 
+* Visual Foundation Studio 2016 or VFS 2016 
 
 Before each assignment, a header that labels each project (See below.)
 
