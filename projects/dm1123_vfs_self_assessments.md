@@ -45,10 +45,7 @@ Email your final self assessment in the body of an email to jseegers@nyu.edu.
 
 * What assignment(s) did you like the most and why?
 * What assignment(s) did you like the least and why?
-* What change(s) would you make to this class and why?
-Feedback re: required books
-* Graphic Design: The New Basics
-* Type On Screen
+
 
 
 #### LETTER TO NEXT COHORT   
